@@ -12,7 +12,7 @@ h1
 {
 	margin: 3px auto;
 	padding: 10px;
-	width:80%;
+	width:520px;
 	background-color: #cccccc;
 	height: auto;
 }
@@ -51,7 +51,7 @@ table
 {
 	border: 2px solid #000;
 	margin: 1rem 0 1rem;
-	width:100%;
+	width:auto;
 	text-align: center;
 	border-collapse: collapse;
 }
